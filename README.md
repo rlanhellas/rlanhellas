@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DataDog**
 
-- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes-sigs)
+- 👯 I’m looking to collaborate on [Golang](https://github.com/golang/go) and [Kubernetes](https://github.com/kubernetes-sigs)
 
 - 📝 I regularly write articles on [dev.to/rlanhellas](https://dev.to/rlanhellas)
 
