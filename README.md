@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Golang](https://github.com/golang/go) and [Kubernetes](https://github.com/kubernetes-sigs)
 
-- 📝 I regularly write articles on [dev.to/rlanhellas](https://dev.to/rlanhellas)
+- 📝 I regularly write articles on (under progress...)
 
 - 💬 Ask me about **Golang, Java, Kafka, AWS, K8s**
 
