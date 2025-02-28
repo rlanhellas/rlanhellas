@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ronaldo Lanhellas</h1>
-<h3 align="center">while(true){ trainBrain(); if (midnight) { sleep(6h); } }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlanhellas&label=Profile%20views&color=0e75b6&style=flat" alt="rlanhellas" /> </p>
 
 - 🌱 I’m currently learning **DataDog**
 
 - 👯 I’m looking to collaborate on [Golang](https://github.com/golang/go) and [Kubernetes](https://github.com/kubernetes-sigs)
-
-- 📝 I regularly write articles on (under progress...)
 
 - 💬 Ask me about **Golang, Java, Kafka, AWS, K8s**
 
