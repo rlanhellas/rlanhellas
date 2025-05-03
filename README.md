@@ -12,7 +12,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Page cache fine tunning, dirty contents](https://dev.to/rlanhellas/page-cache-linux-tunning-4hp1)
+- [Lista de termos mais comuns no Kafka]([https://dev.to/rlanhellas/page-cache-linux-tunning-4hp1](https://kafkabrasil.com/glossario-kafka/))
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
