@@ -2,18 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlanhellas&label=Profile%20views&color=0e75b6&style=flat" alt="rlanhellas" /> </p>
 
-- 🌱 I’m currently learning **DataDog**
-
-- 👯 I’m looking to collaborate on [Golang](https://github.com/golang/go) and [Kubernetes](https://github.com/kubernetes-sigs)
-
-- 💬 Ask me about **Golang, Java, Kafka, AWS, K8s**
-
 - 📫 How to reach me **ronaldo.lanhellas@gmail.com**
 
 ### Blogs posts ([kafkabrasil.com](https://kafkabrasil.com))
-<!-- BLOG-POST-LIST:START -->
-- [Page cache fine tunning, dirty contents](https://dev.to/rlanhellas/page-cache-linux-tunning-4hp1)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
