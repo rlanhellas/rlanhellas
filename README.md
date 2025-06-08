@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlanhellas&label=Profile%20views&color=0e75b6&style=flat" alt="rlanhellas" /> </p>
 
 - 📫 How to reach me **ronaldo.lanhellas@gmail.com**
-
-### Blogs ([kafkabrasil.com](https://kafkabrasil.com))
+- Currently contributing in https://github.com/orgs/strimzi/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
