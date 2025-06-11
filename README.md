@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ronaldo Lanhellas</h1>
+### 👋 Hi there, I'm Ronaldo Lanhellas
 
-🛠 Open source contributor | Kafka + Kubernetes Enthusiast  
-👷 Actively contributing to [Strimzi](https://github.com/strimzi) — building better Kafka on K8s  
-🌱 Learning in public | Focused on Operators, DevEx, and Observability  
-🔍 Also exploring: Envoy, Crossplane  
-🤝 Available for reviews, docs, and collaboration!  
+I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operators**.
+
+### 🛠️ Current Focus
+
+- 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes
+- 📚 Learning in public — digging into Operators, CRDs, and Helm-based workflows
+- 🧩 Secondary projects: [Envoy Proxy](https://github.com/envoyproxy/envoy), [Crossplane](https://github.com/crossplane/crossplane)
+
+### 🔭 Goals
+
+- 📈 Become a trusted contributor and future **maintainer** for Strimzi
+- ✍️ Improve docs and dev experience around Kafka Operators
+- 🤝 Engage in PR reviews, issue triage, and mentoring
+
+### 🤝 Let's Collaborate
+
+Feel free to connect, review a PR together, or talk about OSS sustainability and Kafka/Kubernetes!
+
+> "Open source isn't just code—it's community."
+
