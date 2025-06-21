@@ -6,7 +6,7 @@ I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operato
 
 - 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes
 - 📚 Learning in public — digging into Operators, CRDs, and Helm-based workflows
-- 🧩 Secondary projects: [Envoy Proxy](https://github.com/envoyproxy/envoy), [Crossplane](https://github.com/crossplane/crossplane)
+- 🧩 Secondary projects: [Envoy Proxy](https://github.com/envoyproxy/envoy)
 
 ### 🔭 Goals
 
