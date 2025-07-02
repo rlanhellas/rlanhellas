@@ -6,7 +6,7 @@ I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operato
 
 - 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes using Operators
 - 📚 Learning in public — digging into Operators, CRDs, and Helm-based workflows
-- 🧩 Secondary projects: [Karpenter AWS Provider](https://github.com/aws/karpenter-provider-aws), [Karpenter]()
+- 🧩 Secondary projects: [Karpenter AWS Provider](https://github.com/aws/karpenter-provider-aws)
 ### 🔭 Goals
 
 - 📈 Become a trusted contributor and future **maintainer** for Strimzi
