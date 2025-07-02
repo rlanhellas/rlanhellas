@@ -4,10 +4,9 @@ I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operato
 
 ### 🛠️ Current Focus
 
-- 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes
+- 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes using Operators
 - 📚 Learning in public — digging into Operators, CRDs, and Helm-based workflows
-- 🧩 Secondary projects: [Envoy Proxy](https://github.com/envoyproxy/envoy)
-
+- 🧩 Secondary projects: [Karpenter AWS Provider](https://github.com/aws/karpenter-provider-aws), [Karpenter]()
 ### 🔭 Goals
 
 - 📈 Become a trusted contributor and future **maintainer** for Strimzi
