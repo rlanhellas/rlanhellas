@@ -5,7 +5,6 @@ I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operato
 ### 🛠️ Current Focus
 
 - 💻 Actively contributing to [Strimzi](https://github.com/strimzi) — Kafka on Kubernetes using Operators and [Karpenter AWS Provider](https://github.com/aws/karpenter-provider-aws) (Autoscaling SIG for Kubernetes)
-### 🔭 Goals
 
 ### 🤝 Let's Collaborate
 
