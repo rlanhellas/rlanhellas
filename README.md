@@ -4,7 +4,7 @@ I'm a software engineer focused on **Kafka, Kubernetes, and Cloud-native Operato
 
 ### 🛠️ Current Focus
 
-- 💻 Actively contributing to [KEDA]([https://github.com/strimzi](https://github.com/kedacore/keda)
+- 💻 Actively contributing to [KEDA](https://github.com/kedacore/keda)
 
 ### 🤝 Let's Collaborate
 
